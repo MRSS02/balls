@@ -1,0 +1,13 @@
+.helloWorld {
+  font-size: 300%;
+  width: 50vw;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20vh;
+
+}
+
+.desc {
+  font-size: 50%;
+}
