@@ -8,6 +8,8 @@
 
 }
 
-.desc {
-  font-size: 50%;
+.balls {
+  width: 10%;
+  height: auto;
+  margin: 10px;
 }
