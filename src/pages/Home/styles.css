@@ -13,3 +13,45 @@
   height: auto;
   margin: 10px;
 }
+
+.ballsContainer {
+  overflow-y: scroll;
+}
+
+.button {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-style: groove;
+  border-color: inherit;
+  background-color: #909090;
+  text-decoration: none;
+  color: #FFFFFF;
+  margin: 1%;
+}
+.delete {
+  background-color: #FF0033;
+}
+
+.add {
+  background-color: #22CC66;
+}
+
+.delete:hover {
+  background-color: #A00022;
+}
+
+.delete:active {
+  color: #B0B0B0;
+  background-color: #880011;
+}
+
+.add:hover {
+  background-color: #16A044;
+}
+
+.add:active {
+  color: #B0B0B0;
+  background-color: #088822;
+}
