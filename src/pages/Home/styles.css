@@ -14,10 +14,6 @@
   margin: 10px;
 }
 
-.ballsContainer {
-  overflow-y: scroll;
-}
-
 .button {
   padding-left: 20px;
   padding-right: 20px;
